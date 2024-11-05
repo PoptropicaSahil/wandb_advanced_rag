@@ -1,6 +1,6 @@
 # RAG++
 
-> Content is taken from the official wandb repo at `https://github.com/wandb/edu/blob/main/rag-advanced`. All credits to them. This is my repo for following the course for educational purposes.
+> Content is taken from the official wandb repo at `https://github.com/wandb/edu/blob/main/rag-advanced`. All credits to them. This is my repo for following the course for educational purposes. I have put all the code in the `.ipynb` notebooks themselves - so my code might look ugly!
 
 This repository contains the code for the [Advanced RAG course](https://www.wandb.courses/courses/rag-in-production).
 
@@ -10,15 +10,9 @@ Practical RAG techniques for engineers: learn production-ready solutions from in
 
 ## Setup and Installation
 
-First create an environment with python 3.10:
+Create a venv and install the requirements:
 ```bash
-conda create -n rag-advanced python=3.10
-conda activate rag-advanced
-```
-
-Then install the requirements:
-```bash
-pip install -r requirements.txt
+pip install -r requirements_sahil.txt
 ```
 
 ## Project Structure

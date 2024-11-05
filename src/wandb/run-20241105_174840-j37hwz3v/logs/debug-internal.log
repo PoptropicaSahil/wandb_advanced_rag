@@ -1,0 +1,11 @@
+{"time":"2024-11-05T17:48:40.0716793+05:30","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T17:48:40.0716793+05:30","level":"INFO","msg":"created symlink","path":"c:\\Users\\s0g0e60\\OneDrive - Walmart Inc\\stdy\\RAG++\\src\\wandb\\run-20241105_174840-j37hwz3v\\logs\\debug-core.log"}
+{"time":"2024-11-05T17:48:42.6514273+05:30","level":"INFO","msg":"created new stream","id":"j37hwz3v"}
+{"time":"2024-11-05T17:48:42.6519696+05:30","level":"INFO","msg":"stream: started","id":"j37hwz3v"}
+{"time":"2024-11-05T17:48:42.6519696+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"j37hwz3v"}}
+{"time":"2024-11-05T17:48:42.6519696+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"j37hwz3v"}}
+{"time":"2024-11-05T17:48:42.6519696+05:30","level":"INFO","msg":"sender: started","stream_id":"j37hwz3v"}
+{"time":"2024-11-05T17:48:43.8871425+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T17:48:44.3003931+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-05T17:50:11.0790235+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-05T17:50:28.0718624+05:30","level":"INFO","msg":"Pausing system monitor"}

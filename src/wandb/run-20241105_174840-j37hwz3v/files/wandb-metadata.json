@@ -1,0 +1,31 @@
+{
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "3.12.4",
+  "startedAt": "2024-11-05T12:18:40.060742Z",
+  "program": "c:\\Users\\s0g0e60\\OneDrive - Walmart Inc\\stdy\\RAG++\\src\\Chapter01.ipynb",
+  "git": {
+    "remote": "https://github.com/PoptropicaSahil/wandb_advanced_rag.git",
+    "commit": "372d038c23118c0d28140e029a921099476a2b8a"
+  },
+  "email": "sahilgirhepuje@gmail.com",
+  "root": "c:\\Users\\s0g0e60\\OneDrive - Walmart Inc\\stdy\\RAG++\\src",
+  "host": "EUSHOIDCHQDfrdi",
+  "username": "s0g0e60",
+  "executable": "c:\\Users\\s0g0e60\\OneDrive - Walmart Inc\\stdy\\RAG++\\venv\\Scripts\\python.exe",
+  "codePathLocal": "Chapter01.ipynb",
+  "cpu_count": 10,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "255229685760",
+      "used": "115344068608"
+    }
+  },
+  "memory": {
+    "total": "33692475392"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 12
+  }
+}

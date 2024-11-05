@@ -1,0 +1,33 @@
+2024-11-05 17:48:40,040 INFO    MainThread:21328 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-11-05 17:48:40,040 INFO    MainThread:21328 [wandb_setup.py:_flush():79] Configure stats pid to 21328
+2024-11-05 17:48:40,047 INFO    MainThread:21328 [wandb_setup.py:_flush():79] Loading settings from C:\Users\s0g0e60\.config\wandb\settings
+2024-11-05 17:48:40,047 INFO    MainThread:21328 [wandb_setup.py:_flush():79] Loading settings from c:\Users\s0g0e60\OneDrive - Walmart Inc\stdy\RAG++\src\wandb\settings
+2024-11-05 17:48:40,047 INFO    MainThread:21328 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'api_key': '***REDACTED***'}
+2024-11-05 17:48:40,047 INFO    MainThread:21328 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-05 17:48:40,048 INFO    MainThread:21328 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-05 17:48:40,048 INFO    MainThread:21328 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-05 17:48:40,049 INFO    MainThread:21328 [wandb_init.py:_log_setup():534] Logging user logs to c:\Users\s0g0e60\OneDrive - Walmart Inc\stdy\RAG++\src\wandb\run-20241105_174840-j37hwz3v\logs\debug.log
+2024-11-05 17:48:40,049 INFO    MainThread:21328 [wandb_init.py:_log_setup():535] Logging internal logs to c:\Users\s0g0e60\OneDrive - Walmart Inc\stdy\RAG++\src\wandb\run-20241105_174840-j37hwz3v\logs\debug-internal.log
+2024-11-05 17:48:40,049 INFO    MainThread:21328 [wandb_init.py:_jupyter_setup():480] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001CC7F38C260>
+2024-11-05 17:48:40,049 INFO    MainThread:21328 [wandb_init.py:init():621] calling init triggers
+2024-11-05 17:48:40,049 INFO    MainThread:21328 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2024-11-05 17:48:40,049 INFO    MainThread:21328 [wandb_init.py:init():671] starting backend
+2024-11-05 17:48:40,049 INFO    MainThread:21328 [wandb_init.py:init():675] sending inform_init request
+2024-11-05 17:48:40,059 INFO    MainThread:21328 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2024-11-05 17:48:40,060 INFO    MainThread:21328 [wandb_init.py:init():688] backend started and connected
+2024-11-05 17:48:40,074 INFO    MainThread:21328 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-11-05 17:48:40,074 INFO    MainThread:21328 [wandb_run.py:_label_probe_notebook():1352] Unable to probe notebook: 'charmap' codec can't decode byte 0x8d in position 33222: character maps to <undefined>
+2024-11-05 17:48:40,074 INFO    MainThread:21328 [wandb_init.py:init():783] updated telemetry
+2024-11-05 17:48:40,414 INFO    MainThread:21328 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-11-05 17:48:43,875 INFO    MainThread:21328 [wandb_init.py:init():867] starting run threads in backend
+2024-11-05 17:48:44,231 INFO    MainThread:21328 [wandb_run.py:_console_start():2463] atexit reg
+2024-11-05 17:48:44,231 INFO    MainThread:21328 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-11-05 17:48:44,231 INFO    MainThread:21328 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-11-05 17:48:44,231 INFO    MainThread:21328 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-11-05 17:48:44,239 INFO    MainThread:21328 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-05 17:48:44,239 INFO    MainThread:21328 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-05 17:48:44,239 INFO    MainThread:21328 [wandb_init.py:_pause_backend():445] pausing backend
+2024-11-05 17:50:11,079 INFO    MainThread:21328 [wandb_init.py:_resume_backend():450] resuming backend
+2024-11-05 17:50:28,068 INFO    MainThread:21328 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-05 17:50:28,069 INFO    MainThread:21328 [wandb_init.py:_pause_backend():445] pausing backend
